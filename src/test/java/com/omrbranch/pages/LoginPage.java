@@ -53,7 +53,9 @@ public class LoginPage extends BaseClass {
 		
 		
 	}
-	public void errorMessage() {
+	public String errorMessage() {
+		String textLogin=getElementText(errLogin);
+		return textLogin;
 
 	}
 		
