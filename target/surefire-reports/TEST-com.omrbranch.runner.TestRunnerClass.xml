@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.omrbranch.runner.TestRunnerClass" time="17.37" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.omrbranch.runner.TestRunnerClass" time="24.456" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Users\sunil\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\sunil\AppData\Local\Temp\surefire7981590942130974534\surefirebooter-20251218132924194_3.jar C:\Users\sunil\AppData\Local\Temp\surefire7981590942130974534 2025-12-18T13-29-24_046-jvmRun1 surefire-20251218132924194_1tmp surefire_0-20251218132924194_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\sunil\AppData\Local\Temp\surefire14753043570167182988\surefirebooter-20251219182835653_3.jar C:\Users\sunil\AppData\Local\Temp\surefire14753043570167182988 2025-12-19T18-28-35_533-jvmRun1 surefire-20251219182835653_1tmp surefire_0-20251219182835653_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\SELENIUM\OmrBranchHotelProject_Sunil\target\test-classes;C:\SELENIUM\OmrBranchHotelProject_Sunil\target\classes;C:\Users\sunil\.m2\repository\io\cucumber\cucumber-java\7.23.0\cucumber-java-7.23.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\cucumber-core\7.23.0\cucumber-core-7.23.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\cucumber-gherkin\7.23.0\cucumber-gherkin-7.23.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.23.0\cucumber-gherkin-messages-7.23.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\gherkin\32.1.1\gherkin-32.1.1.jar;C:\Users\sunil\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\sunil\.m2\repository\io\cucumber\query\13.6.0\query-13.6.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\sunil\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\sunil\.m2\repository\io\cucumber\datatable\7.23.0\datatable-7.23.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\cucumber-plugin\7.23.0\cucumber-plugin-7.23.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\docstring\7.23.0\docstring-7.23.0.jar;C:\Users\sunil\.m2\repository\io\cucumber\html-formatter\21.10.1\html-formatter-21.10.1.jar;C:\Users\sunil\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\sunil\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\sunil\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\sunil\.m2\repository\io\cucumber\cucumber-junit\7.23.0\cucumber-junit-7.23.0.jar;C:\Users\sunil\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\sunil\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sunil\.m2\repository\net\masterthought\cucumber-reporting\5.10.1\cucumber-reporting-5.10.1.jar;C:\Users\sunil\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.18.3\jackson-databind-2.18.3.jar;C:\Users\sunil\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.18.3\jackson-annotations-2.18.3.jar;C:\Users\sunil\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.18.3\jackson-core-2.18.3.jar;C:\Users\sunil\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.18.3\jackson-datatype-jsr310-2.18.3.jar;C:\Users\sunil\.m2\repository\org\apache\velocity\velocity-engine-core\2.4.1\velocity-engine-core-2.4.1.jar;C:\Users\sunil\.m2\repository\joda-time\joda-time\2.13.1\joda-time-2.13.1.jar;C:\Users\sunil\.m2\repository\org\apache\commons\commons-configuration2\2.12.0\commons-configuration2-2.12.0.jar;C:\Users\sunil\.m2\repository\org\apache\commons\commons-lang3\3.18.0\commons-lang3-3.18.0.jar;C:\Users\sunil\.m2\repository\org\apache\commons\commons-text\1.14.0\commons-text-1.14.0.jar;C:\Users\sunil\.m2\repository\org\jsoup\jsoup\1.20.1\jsoup-1.20.1.jar;C:\Users\sunil\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20240325.1\owasp-java-html-sanitizer-20240325.1.jar;C:\Users\sunil\.m2\repository\com\googlecode\owasp-java-html-sanitizer\java8-shim\20240325.1\java8-shim-20240325.1.jar;C:\Users\sunil\.m2\repository\com\googlecode\owasp-java-html-sanitizer\java10-shim\20240325.1\java10-shim-20240325.1.jar;C:\Users\sunil\.m2\repository\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar;C:\Users\sunil\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.17\jcl-over-slf4j-2.0.17.jar;C:\Users\sunil\.m2\repository\commons-io\commons-io\2.21.0\commons-io-2.21.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-java\4.39.0\selenium-java-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-api\4.39.0\selenium-api-4.39.0.jar;C:\Users\sunil\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.39.0\selenium-chrome-driver-4.39.0.jar;C:\Users\sunil\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.39.0\selenium-chromium-driver-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-json\4.39.0\selenium-json-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.39.0\selenium-manager-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v141\4.39.0\selenium-devtools-v141-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v142\4.39.0\selenium-devtools-v142-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v143\4.39.0\selenium-devtools-v143-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.39.0\selenium-edge-driver-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.39.0\selenium-firefox-driver-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-http\4.39.0\selenium-http-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.39.0\selenium-ie-driver-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.39.0\selenium-remote-driver-4.39.0.jar;C:\Users\sunil\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\sunil\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\sunil\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\sunil\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar;C:\Users\sunil\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-api\1.56.0\opentelemetry-api-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-context\1.56.0\opentelemetry-context-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-common\1.56.0\opentelemetry-common-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.56.0\opentelemetry-exporter-logging-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.56.0\opentelemetry-sdk-common-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.56.0\opentelemetry-sdk-extension-autoconfigure-spi-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.56.0\opentelemetry-sdk-extension-autoconfigure-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.56.0\opentelemetry-sdk-trace-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.56.0\opentelemetry-sdk-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.56.0\opentelemetry-sdk-metrics-1.56.0.jar;C:\Users\sunil\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.56.0\opentelemetry-sdk-logs-1.56.0.jar;C:\Users\sunil\.m2\repository\net\bytebuddy\byte-buddy\1.18.2\byte-buddy-1.18.2.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-os\4.39.0\selenium-os-4.39.0.jar;C:\Users\sunil\.m2\repository\org\apache\commons\commons-exec\1.6.0\commons-exec-1.6.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.39.0\selenium-safari-driver-4.39.0.jar;C:\Users\sunil\.m2\repository\org\seleniumhq\selenium\selenium-support\4.39.0\selenium-support-4.39.0.jar;C:\Users\sunil\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar;C:\Users\sunil\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="EnvDetails" value="QA"/>
-    <property name="surefire.real.class.path" value="C:\Users\sunil\AppData\Local\Temp\surefire7981590942130974534\surefirebooter-20251218132924194_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\sunil\AppData\Local\Temp\surefire14753043570167182988\surefirebooter-20251219182835653_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.8+9-LTS"/>
@@ -53,7 +53,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Users\sunil\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/sunil/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412/jre/bin/server;C:/Users/sunil/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412/jre/bin;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Git\cmd;C:\Program Files\Git LFS;C:\Users\sunil\;C:\Users\sunil\AppData\Local\Programs\Microsoft\jdk-17.0.13.11-hotspot\bin;C:\Users\sunil\AppData\Local\Programs\Microsoft\jdk-21.0.5.11-hotspot\bin;C:\Users\sunil\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\sunil\AppData\Local\Programs\Python\Python311\;C:\Users\sunil\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sunil\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1.1\bin;C:\Users\sunil\AppData\Roaming\npm;C:\Users\sunil\AppData\Local\Programs\Ollama;C:\Users\sunil\AppData\Local\GitHubDesktop\bin;C:\Users\sunil\OneDrive\Desktop;;."/>
+    <property name="java.library.path" value="C:\Users\sunil\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/sunil/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412/jre/bin/server;C:/Users/sunil/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412/jre/bin;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Git LFS;C:\Users\sunil\;C:\Program Files\Git\cmd;C:\Users\sunil\AppData\Local\Programs\Microsoft\jdk-17.0.13.11-hotspot\bin;C:\Users\sunil\AppData\Local\Programs\Microsoft\jdk-21.0.5.11-hotspot\bin;C:\Users\sunil\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\sunil\AppData\Local\Programs\Python\Python311\;C:\Users\sunil\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sunil\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1.1\bin;C:\Users\sunil\AppData\Roaming\npm;C:\Users\sunil\AppData\Local\Programs\Ollama;C:\Users\sunil\AppData\Local\GitHubDesktop\bin;C:\Users\sunil\OneDrive\Desktop;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
@@ -61,34 +61,91 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="Verify login with valid credentials without Enter Key" classname="OMR Branch Hotel Application" time="11.392">
+  <testcase name="Verify login with valid credentials without Enter Key" classname="OMR Branch Hotel Application" time="8.541">
     <system-out><![CDATA[
 @Login
-Scenario Outline: Verify login with valid credentials without Enter Key # src/test/resources/features/login/TC001_Login.feature:16
-13:29:26 INFO  BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
-13:29:26 INFO  HooksClass - ==============================================
-13:29:26 INFO  HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
-13:29:26 INFO  HooksClass - ==============================================
-13:29:26 INFO  HooksClass - Launching browser
-13:29:26 INFO  BaseClass - Launching browser: CHROME
-13:29:30 INFO  BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
-13:29:30 INFO  HooksClass - Entering application URL
-13:29:30 INFO  BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+Scenario Outline: Verify login with valid credentials without Enter Key # src/test/resources/features/login/TC001_Login.feature:15
+18:28:37 INFO  BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+18:28:37 INFO  HooksClass - ==============================================
+18:28:37 INFO  HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+18:28:37 INFO  HooksClass - ==============================================
+18:28:37 INFO  HooksClass - Launching browser
+18:28:37 INFO  BaseClass - Launching browser: CHROME
+18:28:40 INFO  BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+18:28:40 INFO  HooksClass - Entering application URL
+18:28:40 INFO  BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
   Given User is on the OMR Branch hotel page                            # com.omrbranch.stepdefinition.TC001_LoginStep.userIsOnTheOMRBranchHotelPage()
-13:29:31 INFO  PageObjectManager - Initializing LoginPage...
+18:28:41 INFO  PageObjectManager - Initializing LoginPage...
   When User enters "sunilragavmech.1999@gmail.com" and "Sunil@1999"     # com.omrbranch.stepdefinition.TC001_LoginStep.userEntersAnd(java.lang.String,java.lang.String)
-13:29:33 INFO  PageObjectManager - Initializing ExploreHotelPage...
+18:28:42 INFO  PageObjectManager - Initializing ExploreHotelPage...
   Then User should verify success message after login "Welcome Sunil"   # com.omrbranch.stepdefinition.TC001_LoginStep.userShouldVerifySuccessMessageAfterLogin(java.lang.String)
-13:29:35 INFO  HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
-13:29:35 INFO  HooksClass - Capturing screenshot
+18:28:44 INFO  HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+18:28:44 INFO  HooksClass - Capturing screenshot
 
     Embedding screenshot [image/png 924223 bytes]
 
-13:29:36 INFO  HooksClass - Closing browser
-13:29:36 INFO  BaseClass - Quitting browser session
-13:29:37 INFO  HooksClass - ==============================================
-13:29:37 INFO  HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
-13:29:37 INFO  HooksClass - ==============================================
+18:28:45 INFO  HooksClass - Closing browser
+18:28:45 INFO  BaseClass - Quitting browser session
+18:28:45 INFO  HooksClass - ==============================================
+18:28:45 INFO  HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+18:28:45 INFO  HooksClass - ==============================================
+]]></system-out>
+  </testcase>
+  <testcase name="Verify login with valid credentials using Enter Key via Robot Class" classname="OMR Branch Hotel Application" time="6.42">
+    <system-out><![CDATA[
+@Login
+Scenario Outline: Verify login with valid credentials using Enter Key via Robot Class # src/test/resources/features/login/TC001_Login.feature:23
+18:28:45 INFO  HooksClass - ==============================================
+18:28:45 INFO  HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+18:28:45 INFO  HooksClass - ==============================================
+18:28:45 INFO  HooksClass - Launching browser
+18:28:45 INFO  BaseClass - Launching browser: CHROME
+18:28:47 INFO  BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+18:28:47 INFO  HooksClass - Entering application URL
+18:28:47 INFO  BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+  Given User is on the OMR Branch hotel page                                          # com.omrbranch.stepdefinition.TC001_LoginStep.userIsOnTheOMRBranchHotelPage()
+18:28:48 INFO  PageObjectManager - Initializing LoginPage...
+  When User enters "sunilragavmech.1999@gmail.com" and "Sunil@1999" with enter key    # com.omrbranch.stepdefinition.TC001_LoginStep.userEntersAndWithEnterKey(java.lang.String,java.lang.String)
+18:28:49 INFO  PageObjectManager - Initializing ExploreHotelPage...
+  Then User should verify success message after login "Welcome Sunil"                 # com.omrbranch.stepdefinition.TC001_LoginStep.userShouldVerifySuccessMessageAfterLogin(java.lang.String)
+18:28:51 INFO  HooksClass - Scenario Passed : Verify login with valid credentials using Enter Key via Robot Class
+18:28:51 INFO  HooksClass - Capturing screenshot
+
+    Embedding screenshot [image/png 924223 bytes]
+
+18:28:51 INFO  HooksClass - Closing browser
+18:28:51 INFO  BaseClass - Quitting browser session
+18:28:51 INFO  HooksClass - ==============================================
+18:28:51 INFO  HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+18:28:51 INFO  HooksClass - ==============================================
+]]></system-out>
+  </testcase>
+  <testcase name="Verify login with invalid credentials" classname="OMR Branch Hotel Application" time="4.026">
+    <system-out><![CDATA[
+@Login
+Scenario Outline: Verify login with invalid credentials                                                          # src/test/resources/features/login/TC001_Login.feature:32
+18:28:51 INFO  HooksClass - ==============================================
+18:28:51 INFO  HooksClass - Scenario Started : Verify login with invalid credentials
+18:28:51 INFO  HooksClass - ==============================================
+18:28:51 INFO  HooksClass - Launching browser
+18:28:51 INFO  BaseClass - Launching browser: CHROME
+18:28:53 INFO  BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+18:28:53 INFO  HooksClass - Entering application URL
+18:28:53 INFO  BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+  Given User is on the OMR Branch hotel page                                                                     # com.omrbranch.stepdefinition.TC001_LoginStep.userIsOnTheOMRBranchHotelPage()
+18:28:53 INFO  PageObjectManager - Initializing LoginPage...
+  When User enters "sunilragavmech.1999@gmail.com" and "Hello@2345678"                                           # com.omrbranch.stepdefinition.TC001_LoginStep.userEntersAnd(java.lang.String,java.lang.String)
+  Then User should verify error message after login "Invalid Login details or Your Password might have expired." # com.omrbranch.stepdefinition.TC001_LoginStep.userShouldVerifyErrorMessageAfterLogin(java.lang.String)
+18:28:55 INFO  HooksClass - Scenario Passed : Verify login with invalid credentials
+18:28:55 INFO  HooksClass - Capturing screenshot
+
+    Embedding screenshot [image/png 881677 bytes]
+
+18:28:55 INFO  HooksClass - Closing browser
+18:28:55 INFO  BaseClass - Quitting browser session
+18:28:55 INFO  HooksClass - ==============================================
+18:28:55 INFO  HooksClass - Scenario Ended : Verify login with invalid credentials
+18:28:55 INFO  HooksClass - ==============================================
 ]]></system-out>
   </testcase>
 </testsuite>

@@ -48,8 +48,8 @@ public class LoginPage extends BaseClass {
 	//login with enter key
 	public void loginKey(String UserName,String password) throws AWTException {
 		elementSendKeys(txtUserName, UserName);
-		elementSendKeys(textPassword, password);
-		enterKey();
+		elementSendKeysEnter(textPassword, password);
+		
 		
 		
 	}

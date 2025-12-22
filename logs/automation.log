@@ -268,3 +268,368 @@
 2025-12-18 13:29:42 INFO  com.omrbranch.report.Reporting - Time     : 20251218_132941
 2025-12-18 13:29:42 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
 2025-12-18 13:29:42 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-19 17:09:02 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-19 17:09:02 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:09:02 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-19 17:09:02 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:09:02 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 17:09:02 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 17:09:05 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 17:09:05 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 17:09:05 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-19 17:09:06 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with invalid credentials
+2025-12-19 17:09:06 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 17:09:06 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 17:09:06 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 17:09:07 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:09:07 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-19 17:09:07 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:09:09 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-19 17:09:09 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-19 17:09:09 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_170909
+2025-12-19 17:09:09 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_170909
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - Time     : 20251219_170909
+2025-12-19 17:09:10 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:09:10 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-19 17:13:20 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-19 17:13:20 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:13:20 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 17:13:20 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:13:20 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 17:13:20 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 17:13:24 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 17:13:24 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 17:13:24 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 17:13:24 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 17:13:26 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-19 17:13:29 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 17:13:29 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 17:13:30 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 17:13:30 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 17:13:30 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:13:30 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 17:13:30 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:13:37 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-19 17:13:37 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-19 17:13:37 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_171337
+2025-12-19 17:13:37 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_171337
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - Time     : 20251219_171337
+2025-12-19 17:13:39 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:13:39 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-19 17:16:00 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-19 17:16:00 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:16:00 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-19 17:16:00 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:16:00 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 17:16:00 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 17:16:04 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 17:16:04 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 17:16:04 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-19 17:16:05 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with invalid credentials
+2025-12-19 17:16:05 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 17:16:05 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 17:16:05 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 17:16:05 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:16:05 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-19 17:16:05 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:16:08 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-19 17:16:08 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-19 17:16:08 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_171608
+2025-12-19 17:16:08 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_171608
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - Time     : 20251219_171608
+2025-12-19 17:16:09 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:16:09 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-19 17:24:45 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-19 17:24:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:24:45 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-19 17:24:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:24:45 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 17:24:45 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 17:24:48 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 17:24:48 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 17:24:48 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 17:24:49 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 17:24:52 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with invalid credentials
+2025-12-19 17:24:52 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 17:24:53 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 17:24:53 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 17:24:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:24:53 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-19 17:24:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 17:24:57 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-19 17:24:57 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-19 17:24:57 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_172457
+2025-12-19 17:24:57 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_172457
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - Time     : 20251219_172457
+2025-12-19 17:24:58 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 17:24:58 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-19 18:01:41 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-19 18:01:41 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:01:41 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-19 18:01:41 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:01:41 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 18:01:41 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 18:01:47 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 18:01:47 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 18:01:47 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 18:01:48 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 18:01:50 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-19 18:01:53 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-19 18:01:53 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 18:01:54 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:01:54 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 18:01:54 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 18:01:57 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 18:01:57 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 18:01:57 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 18:01:57 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 18:01:59 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-19 18:02:01 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 18:02:01 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 18:02:02 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:02:02 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 18:02:02 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 18:02:06 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 18:02:06 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 18:02:06 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 18:02:06 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 18:02:08 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with invalid credentials
+2025-12-19 18:02:08 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 18:02:09 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 18:02:09 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 18:02:10 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:02:10 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-19 18:02:10 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:02:15 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-19 18:02:15 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-19 18:02:15 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_180215
+2025-12-19 18:02:15 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_180215
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - Time     : 20251219_180215
+2025-12-19 18:02:19 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 18:02:19 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-19 18:28:37 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-19 18:28:37 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:37 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-19 18:28:37 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:37 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 18:28:37 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 18:28:40 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 18:28:40 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 18:28:40 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 18:28:41 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 18:28:42 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-19 18:28:44 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-19 18:28:44 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 18:28:45 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:45 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 18:28:45 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 18:28:47 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 18:28:47 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 18:28:47 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 18:28:48 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 18:28:49 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 18:28:51 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:51 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-19 18:28:51 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-19 18:28:53 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-19 18:28:53 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-19 18:28:53 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-19 18:28:53 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-19 18:28:55 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with invalid credentials
+2025-12-19 18:28:55 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-19 18:28:55 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-19 18:28:55 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-19 18:28:55 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:55 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-19 18:28:55 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-19 18:28:59 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-19 18:28:59 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-19 18:28:59 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_182859
+2025-12-19 18:28:59 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251219_182859
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - Time     : 20251219_182859
+2025-12-19 18:29:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-19 18:29:00 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-23 01:43:25 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-23 01:43:25 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:25 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-23 01:43:25 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:25 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-23 01:43:25 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-23 01:43:33 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-23 01:43:33 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-23 01:43:33 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-23 01:43:34 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials without Enter Key
+2025-12-23 01:43:34 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-23 01:43:34 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-23 01:43:34 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-23 01:43:49 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:49 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-23 01:43:49 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:49 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:49 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-23 01:43:49 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:49 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-23 01:43:49 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-23 01:43:51 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-23 01:43:51 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-23 01:43:51 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-23 01:43:52 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-23 01:43:52 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-23 01:43:52 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-23 01:43:52 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-23 01:43:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:53 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-23 01:43:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:53 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-23 01:43:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:53 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-23 01:43:53 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-23 01:43:55 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-23 01:43:55 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-23 01:43:55 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-23 01:43:56 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with invalid credentials
+2025-12-23 01:43:56 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-23 01:43:56 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-23 01:43:56 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-23 01:43:56 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:56 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-23 01:43:56 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:43:58 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-23 01:43:58 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-23 01:43:58 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251223_014358
+2025-12-23 01:43:58 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251223_014358
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - Time     : 20251223_014358
+2025-12-23 01:44:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-23 01:44:00 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-23 01:46:11 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\SELENIUM\OmrBranchHotelProject_Sunil\src\test\resources\config\Config.properties
+2025-12-23 01:46:11 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:11 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-23 01:46:11 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:11 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-23 01:46:11 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-23 01:46:15 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-23 01:46:15 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-23 01:46:15 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-23 01:46:16 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials without Enter Key
+2025-12-23 01:46:16 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-23 01:46:16 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-23 01:46:16 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-23 01:46:17 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:17 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-23 01:46:17 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:17 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:17 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-23 01:46:17 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:17 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-23 01:46:17 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-23 01:46:20 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-23 01:46:20 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-23 01:46:20 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-23 01:46:20 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-23 01:46:20 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-23 01:46:20 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-23 01:46:20 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-23 01:46:21 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:21 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-23 01:46:21 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:21 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:21 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-23 01:46:21 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:21 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-23 01:46:21 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-23 01:46:23 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-23 01:46:23 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-23 01:46:23 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-23 01:46:23 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with invalid credentials
+2025-12-23 01:46:23 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-23 01:46:23 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-23 01:46:23 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-23 01:46:24 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:24 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-23 01:46:24 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-23 01:46:27 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json
+2025-12-23 01:46:27 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-23 01:46:27 INFO  com.omrbranch.report.Reporting - Created report directory: C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251223_014627
+2025-12-23 01:46:27 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\SELENIUM\OmrBranchHotelProject_Sunil/target/output.json]
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - Location : C:\SELENIUM\OmrBranchHotelProject_Sunil\target\JVM_Report_20251223_014627
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - Author   : Sunil_Ragav
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - Time     : 20251223_014627
+2025-12-23 01:46:28 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-23 01:46:28 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
